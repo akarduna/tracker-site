@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import { Table, TableRow, Form, FormGroup, Input, Container} from 'reactstrap';
+import {Container} from 'reactstrap';
 import './App.css';
 import Searchbar from './components/searchbar';
 
